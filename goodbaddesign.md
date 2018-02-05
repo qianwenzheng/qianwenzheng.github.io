@@ -1,11 +1,12 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
-gh-badge: [star, fork, follow]
-tags: [test]
+title: Assignment: Good Design / Bad Design
+subtitle: "'[Design]' is not just what it looks like and feels like. Design is how it works" -_Steve Jobs_
+
 ---
+Here is an example of a [good design]("gooddesign") on the Williams College website and here is a [bad design]("baddesign") from one of the college's dorms. 
+
+
 
 You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
