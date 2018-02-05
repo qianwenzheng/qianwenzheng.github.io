@@ -1,10 +1,8 @@
 ---
 layout: page
 title:
-subtitle:
+subtitle: Williams Teach it Forward Website
 ---
-
-## WILLIAMS' TEACH IT FORWARD WEBSITE 
 
 ![Teach it Forward](/img/teachitfwd.png)
 
