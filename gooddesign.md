@@ -24,7 +24,7 @@ The navigation bar, however, is clear and includes the vital information that ca
 
 ![Teach it Forward news](/img/teachitfwd2.png)
 
-These pages are cohesive in their Williams-centered color scheme, with purple and gold being accentuated, and their layout of information. In keeping with the goal of maintaining the interest and inspiring generosity in busy alumni, both pages rely on visual 
+These pages are cohesive in their Williams-centered color scheme, with purple and gold being accentuated, and their layout of information. In keeping with the goal of maintaining the interest and inspiring generosity in busy alumni, both pages rely on visual appeal through images and bolded headings, rather than say a textual list of subtopics, to encourage users to learn more.
 
 This is good design because it facilitates a smooth user experience and is simple to use. Here is the [full website](https://teachitforward.williams.edu/) for reference.
 
