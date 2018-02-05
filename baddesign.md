@@ -4,9 +4,9 @@ title: West College Bathroom Doors
 subtitle: Why is it a bad design?
 ---
 
-![Door gap through mirror ](/img/west2.png)
-![Door gap external view ](/img/west3.png)
-![Door gap internal view ](/img/west4.png)
+![Door gap through mirror ](/img/west2.jpg)
+![Door gap external view ](/img/west3.jpg)
+![Door gap internal view ](/img/west4.jpg)
 
 **It stands out.**
 
