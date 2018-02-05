@@ -10,7 +10,7 @@ subtitle: Why is it a bad design?
 
 Using the toilet is a daily activity in which we should feel free to relax and do our business in peace. I'm sure there are others like myself who sometimes find ourselves sitting on the toilet scrolling through our phones, an act that we do not wish to be judged for. How would we feel if we knew that others could watch us? If you look closely at the picture above, the person pointing the camera at the mirror can make eye contact with the person on the toilet through the gap in the stall door. _Awkward_. 
 
-A key purpose of a bathroom stall door is to maintain anonymity. Personally, it is awkward to think that a random person who lives on my floor knows that it is _me_ "doing my business" behind that stall. 
+A key purpose of a bathroom stall door is to maintain anonymity. Personally, it is unsettling to think that a random person who lives on my floor knows that it is _me_ "doing my business" behind that stall. 
 
 ![Door gap external view ](/img/west3.JPG)
 
@@ -20,7 +20,7 @@ As much as the people on the toilet might feel self-conscious using the toilet k
 
 ![Door gap internal view ](/img/west4.JPG)
 
-Sitting on the toilet, I have a relatively good view of the person outside the stall!
+Sitting on the toilet, I have a relatively good view of the person outside the stall! We use the bathroom mirror for several reasons, and whether it is to check ourselves out after we get ready, to pluck our eyebrows or to pick something out of our teeth, we are not keen on having an observer.
 
 **Neither beauty nor utility**
 
