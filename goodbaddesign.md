@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Good Design / Bad Design Assignment
-subtitle: [Design] is not just what it looks like and feels like. Design is how it works. - _Steve Jobs_
+subtitle:  Exploring cases of good and bad design in my daily life
 ---
 Here is an example of a [good design](gooddesign) on the Williams College website and here is a [bad design](baddesign) from one of the college's dorms. 
 
