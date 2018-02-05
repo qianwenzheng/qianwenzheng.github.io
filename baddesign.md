@@ -22,7 +22,7 @@ As much as the people on the toilet might feel self-conscious using the toilet k
 
 Sitting on the toilet, I have a relatively good view of the person outside the stall! We use the bathroom mirror for several reasons, and whether it is to check ourselves out after we get ready, to pluck our eyebrows or to pick something out of our teeth, we are not keen on having an observer.
 
-**Neither beauty nor utility**
+**Neither beauty nor utility.**
 
 Oftentimes, one of the arguments of having a design that is not very functional is beauty, or rather how aesthetically pleasing it is. These doors are neither beautiful nor doing their job well. They are not particularly stylish. What makes this so frustrating is that this problem could have easily been avoided by simply choosing different door hinges, ones that are designed so that the door is closer to the wall to avoid the gap. It makes me wonder why these particular hinges were chosen. Was it simply out of affordability? Did the designers not think this through properly and these hinges were the only ones that could work after the other fixtures were put in place? Whatever the reason was for this poor design, these stall doors do not _afford_ as much privacy as we'd like. 
 
