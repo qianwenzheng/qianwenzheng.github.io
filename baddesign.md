@@ -20,4 +20,6 @@ As much as the people on the toilet might feel self-conscious using the toilet k
 
 ![Door gap internal view ](/img/west4.JPG)
 
+**Neither beauty nor utility**
 
+Oftentimes, one of the arguments of having a design that is not very functional is beauty, or how aesthetically pleasing it is. These doors are neither beautiful nor doing their job well. These stall doors do not _afford_ as much privacy as we'd like. 
