@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Good Design / Bad Design Assignment
 subtitle:  Exploring cases of good and bad design in my daily life
 ---
