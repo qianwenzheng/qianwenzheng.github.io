@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Williams Teach it Forward Website
+subtitle: Why is it a good design?
 ---
 
 ![Teach it Forward](/img/teachitfwd.png)
