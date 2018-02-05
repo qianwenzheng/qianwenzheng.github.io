@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Assignment
+title: Assignment: Good Design / Bad Design
 subtitle: Steve Jobs
 ---
 Here is an example of a [good design](gooddesign) on the Williams College website and here is a [bad design](baddesign) from one of the college's dorms. 
