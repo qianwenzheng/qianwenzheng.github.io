@@ -24,11 +24,8 @@ description: Portfolio
 # List of links in the navigation bar
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  Assignments:
+    - Good Design/Bad Design: "http://qianwenzheng.github.io/goodbaddesign/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -76,16 +73,6 @@ social-network-links:
   facebook: Tiffany Zheng
   github: qianwenzheng
   linkedin: Tiffany Zheng
-#  xing: yourname
-#  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
 
 # Select which share links to show in posts
 share-links-active:
@@ -94,7 +81,6 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
