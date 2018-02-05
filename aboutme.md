@@ -4,8 +4,12 @@ title: About me
 ---
 ![My picture](/img/mypic.jpeg)
 
-I'm a sophomore at Williams College studying Computer Science and Mathematics. 
+I'm a sophomore at Williams College studying Computer Science and Mathematics. I grew up in Jamaica for most of my life and I enjoy sunshine, spicy food, and ocean views because they remind me of home. Other defining features:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- Dog person
+- Addicted to green tea
+- Love big cities despite poor sense of direction
+- Food enthusiast
+- Spend way too much time looking at memes
+- Come alive in the night time
 
