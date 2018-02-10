@@ -9,7 +9,7 @@ Pictures: social media platforms,  networking event, people exchanging nums swip
 ![Swipe up on phone](/img/swipeup.png)
 ![Tapia conference](/img/tapia.jpg)
 
-I'm really bad at remembering names. As a college student who's constantly reminded to "network" and "make connections", the struggle .
-With today's globalized world, _people_ are the most valuable and diverse set of information hubs that exist.  As someone whAs we're thrown into a world of [] we're meeting more , it is getting increasingly hard to remember names
+With today's globalized world, _people_ are the most valuable and diverse set of information hubs that exist. We each carry unique knowledge, experiences, and abilities that learning from each other is an invaluable and transformative experience. How can we best take advantage of that? I'm really bad at remembering names. As a college student who's constantly reminded to "network" and "make connections", the struggle .
+  As someone whAs we're thrown into a world of [] we're meeting more , it is getting increasingly hard to remember names
 
 **Making _connections_, minus the awkwardness**
