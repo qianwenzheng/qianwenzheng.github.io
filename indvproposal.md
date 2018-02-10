@@ -14,5 +14,6 @@ With today's globalized world, _people_ are the most valuable and diverse set of
 
 **Making _connections_, minus the awkwardness**
 
-_Image credits:_ . 
+_Image credits:_
+  
 [^Fig.1]: Image taken from g
