@@ -3,6 +3,7 @@ layout: page
 title: What's in a name?
 subtitle: A better way to connect, and stay connected, to people in this digital age
 ---
+With today's globalized world, _people_ are the most valuable and diverse set of information hubs that exist. We each carry such unique knowledge, experiences, and abilities that learning from each other is an invaluable and transformative experience. So how can we best take advantage of that? 
 
 ![Social Media](/img/socialmedia.jpg) *Wider range of social media platforms available than ever before [^1]*
 
