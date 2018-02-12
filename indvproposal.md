@@ -1,15 +1,10 @@
 ---
 layout: page
-title: What's in a name?
+title: A 21st Century Phonebook
 subtitle: A better way to connect, and stay connected, to people in this digital age
 ---
 With today's globalized world, _people_ are the most valuable and diverse information hubs that exist. We each carry such unique knowledge, experiences, and abilities that learning from each other is an invaluable and transformative experience. So how can we best take advantage of that? Networking, one of the key steps to this learning process, is often difficult for me because I'm terrible at remembering names. As we're thrown in a more interconnected world where we're meeting new people all the time, 
 
-//put the names thing here with tags and stuff to remember
-//wide range of social media
-//people exchanging info
-//swipe up
-//tapia can be more beneficial for big events
 
 ![Social Media](/img/socialmedia.jpg) *Wider range of social media platforms available than ever before [^1]*
 
