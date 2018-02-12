@@ -44,6 +44,7 @@ What we need is a comprehensive mobile application, let’s call it Deetz, that 
 
 _Image credits:_
 
-[^1]: 
-[^2]:
+[^1]: [Variety of Social Media]. (n.d.). Retrieved February 11, 2018, from https://www.simplilearn.com/ice9/free_resources_article_thumb/real-impact-social-media-article.jpg
+
+[^2]: Moriarty, D. (2016, July 1). Texting Mobile Phones Hands Two [Digital image]. Retrieved February 11, 2018, from https://pixabay.com/en/texting-mobile-phones-hands-two-1490691/
 
