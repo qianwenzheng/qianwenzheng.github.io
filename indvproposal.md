@@ -28,7 +28,7 @@ After meeting someone, and you decide that you want to stay in contact, what inf
 ![People exchanging contact info](/img/exchangenums.jpeg) *Exchanging contact info should be less of a hassle [^2]*
 
 
-Exchanging contact info is even a bigger hassle when people form new groups (such as project teams or a table of strangers at a conference) and need to exchange contacts with each group member. 
+Exchanging contact info is even a bigger inconvenience when people form new groups (such as teams or a table of strangers at a conference) and need to exchange contacts with each group member. 
 
 
 **3. Our contact information often changes with time**
