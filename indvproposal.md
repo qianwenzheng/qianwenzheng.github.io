@@ -3,7 +3,7 @@ layout: page
 title: A 21st Century Phonebook
 subtitle: A better way to connect, and stay connected, to people in this digital age
 ---
-With today's globalized world, people are the most valuable and diverse information hubs. We each hold unique knowledge, experiences, and abilities that allow us to learn from each other in invaluable and transformative ways. We want to connect with people, but it’s often easier said than done for several reasons:
+With today's globalized world, _people_ are the most valuable and diverse information hubs. We each hold unique knowledge, experiences, and abilities that allow us to learn from each other in invaluable and transformative ways. We want to connect with people, but it’s often easier said than done for several reasons:
 
 
 **1. We’re bad at remembering details**
@@ -22,7 +22,7 @@ Our forgetful nature can either lead to slightly awkward and less meaningful fut
 
 ![Social Media](/img/socialmedia.jpg) *Wider range of social media platforms available than ever before [^1]*
 
-After meeting someone, and you decide that you want to stay in contact, what information do you exchange? Phone numbers? LinkedIn?  Email? Facebook? Snapchat? We now have a multitude of options but often find ourselves deciding on one because of the time and hassle of finding and giving usernames and opening up several social media apps. 
+After meeting someone, and you decide that you want to stay in contact, what information do you exchange? Phone numbers? LinkedIn?  Email? Facebook? Snapchat? We now have a multitude of options but often find ourselves deciding on _one_ because of the time and hassle of finding and giving usernames and opening up several social media apps. 
 
 
 ![People exchanging contact info](/img/exchangenums.jpeg) *Exchanging contact info should be less of a hassle [^2]*
@@ -40,7 +40,7 @@ The current way we connect with people does not account for the fact that it’s
 **The solution**
 
 
-What we need is a comprehensive mobile application, let’s call it Deetz, that is linked to the user’s social media accounts, emails, and phone numbers. The app would be able to detect nearby Deetz users, enabling people to select who they want to connect with and send their contact info to the people they meet in one go. People would choose what contact info they want to share (eg. only certain social media accounts) with another user or multiple users, and simply clarify each other’s unique Deetz usernames, reducing the hassle. Users could update their contact info, for example if they changed their number or added a social media account, and it would automatically update for Deetz users they are connected to. This allows us to better stay in contact with people over time. Deetz would help us remember details about people we meet by associating names of users with brief tags that describe details about them, for example “works at Facebook”, “Patriots fan” or “met on the subway”. If we forget someone’s name, we can search for them by typing in keywords and the names with tags that best match them would be given. With this, if you want to connect with people, all you have to do is “send them your Deetz”.
+What we need is a comprehensive mobile application, let’s call it _Deetz_, that is linked to the user’s social media accounts, emails, and phone numbers. The app would be able to detect nearby Deetz users, enabling people to select who they want to connect with and send their contact info to the people they meet in one go. People would choose what contact info they want to share (eg. only certain social media accounts) with another user or multiple users, and simply clarify each other’s unique Deetz usernames, reducing the hassle. Users could update their contact info, for example if they changed their number or added a social media account, and it would automatically update for Deetz users they are connected to. This allows us to better stay in contact with people over time. Deetz would help us remember details about people we meet by associating names of users with brief tags that describe details about them, for example “works at Facebook”, “Patriots fan” or “met on the subway”. If we forget someone’s name, we can search for them by typing in keywords and the names with tags that best match them would be given. With this, if you want to connect with people, all you have to do is “send them your Deetz”.
 
 _Image credits:_
 
