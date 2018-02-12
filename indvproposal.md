@@ -9,7 +9,7 @@ With today's globalized world, _people_ are the most valuable and diverse inform
 **1. We’re bad at remembering details**
 
 
-This is perhaps best seen at a conference or networking event. With a large number of people at these gatherings actively trying to meet new people, we often find ourselves scrambling to remember the names of everyone we meet and the relevant details about them that they share with us.
+This is perhaps best seen at a conference or networking event. With a large number of people at these gatherings actively trying to meet new people, we often find ourselves scrambling to remember the names of everyone we meet and the relevant details about themselves that they share with us.
 
 ![Tapia conference](/img/tapia.jpg) *Photo from the Tapia conference I attended last year*
 
