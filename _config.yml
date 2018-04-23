@@ -26,6 +26,7 @@ navbar-links:
   About Me: "aboutme"
   Assignments:
     - Good Design/Bad Design: "goodbaddesign"
+    - Research Paper Report: "researchreport"
   Project:
     - Individual Project Proposal: "indvproposal"
     - Group Project: https://effectivegiving.github.io/
