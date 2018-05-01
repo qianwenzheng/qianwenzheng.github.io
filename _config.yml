@@ -27,6 +27,7 @@ navbar-links:
   Assignments:
     - Good Design/Bad Design: "goodbaddesign"
     - Research Paper Report: "researchreport"
+    - Design Manifesto: "manifesto"
   Project:
     - Individual Project Proposal: "indvproposal"
     - Group Project: https://effectivegiving.github.io/
