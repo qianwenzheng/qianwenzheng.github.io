@@ -81,7 +81,7 @@ As with any process that has an impact on people's lives and wellbeing, the desi
 
 ![Users can select causes they care about](img/manifestocauses.png)_Users can select causes they care about_
 
-![Monthly recurring payments option is opt-in](img/manifestomonthly.png)
+![Monthly recurring payments option is opt-in](img/manifestomonthly.png)  
 _Monthly recurring payments option is opt-in_
 
 - The right to access accurate and unbiased information: We chose to present information about charities to our users through charity profiles that contained verifiable information and unbiased assessments of charities' effectiveness from credible third-party resources such as GiveWell and Charity Watch that are involved with assessing charitable organizations. We felt that this was a more accurate and holistic representation of the effectiveness of a charity than pulling information straight from the organization's website. During our design testing and research processes, our participants were informed beforehand what the tests and contextual inquiries would involve.  
