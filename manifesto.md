@@ -38,7 +38,9 @@ In the design process, the generating and expanding of ideas during the ideation
 ![Our affinity diagram which organized user data received during our testing process into higher-level themes](img/manifestoaffinity.png)_Our affinity diagram which organized user data received during our testing process into higher-level themes_
 
 
-A good tip for integrating functionality without making the design confusing is to follow industry standards and metaphors. In our application, we [insert a link to a reading here] 
+Following the guidelines for refining a design outlined in _Designing for Interaction_ by Saffer, a good tip for integrating functionality without making the design confusing is to follow industry standards [(_Designing for Interaction_, pp 134)](safferdesignforinteraction.pdf). In our mobile application, we followed established industry standards such as placing the back button at the top left, the nav bar at the top right, and menu options at the bottom of the screen. Adhering to these conventions that users are already used to allows for them to navigate our application more smoothly. To further simplify our design to a wide range of users, we also employed interface metaphors that most people are familiar with, which helps users better understand the product and accomplish their tasks, as outlined in _Interaction Design_ by Rogers, Sharpe & Preece [(_Interaction Design_,pp 403-405)](interactiondesign.pdf). In our application, we employed familiar metaphors such as a bell icon to represent notifications, a human figures icon to activities with other users, a question mark icon to represent our help page, and a screw icon to represent settings (shown below). 
+
+![Metaphors and standards in homepage](img/manifestohome.png)
 
 Oftentimes, when faced with the decision of whether to get rid of or add a feature, it is useful to ask yourself if the feature is in line with the major user tasks that the design should facilitate. It is unnecessary to add complicated features that do not play a significant role in helping users accomplish their goals. Features we had originally generated for our mobile platform such as location tracking features and allowing users to send "gifts" of donations to another user's favorite charity never made it to our final design because although they were creative, they would have overcomplicated simple user tasks of learning about and donating to effective charities, which were integral to our design.  
 
@@ -69,7 +71,7 @@ There are other accessibility concerns that could have been addressed in our mob
 
 ## Code of Ethics 
 
-As with any process that has an impact on people's lives and wellbeing, the design process must follow established ethical principles. A useful resource that can guide designers in sticking to ethical guidelines is the [ACM code of ethics? Insert reading here]. Throughout our design process this semester, our actions and decision-making process were governed by several ethical guidelines: 
+As with any process that has an impact on people's lives and wellbeing, the design process must follow established ethical principles. A useful resource that can guide designers in considering ethical concerns is the [ACM code of ethics](https://www.acm.org/about-acm/acm-code-of-ethics-and-professional-conduct), which provides a good overview of moral imperatives that should guide design. Throughout our design process this semester, our actions and decision-making process were governed by several ethical guidelines: 
 
 - Credit for others' intellectual property: Including relevant citations and sources for other people's content we used in our website, application designs and presentation is crucial, not only for legal purposes but also out of respect for other people's work.  
 
