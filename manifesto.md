@@ -82,5 +82,3 @@ Although different ethical considerations are given varying weight based on the 
 ## Conclusion 
 
 These takeaways are applicable to any design process, beyond the mobile platform project I worked on this semester. Ultimately, design shapes how effective a product is, who it appeals to, and how people interact with it. It is a continuous process that involves iterations of user testing, selective design revisions, and balancing simplicity and functionality, all while ensuring that the product is accessible and prioritizes the wellbeing of users.  
-
-## Citations
